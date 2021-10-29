@@ -12,10 +12,10 @@ QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
 LibraryDatabaseType=Microsoft Excel 2007
-LibraryDatabasePath=D:\Projects\Altium\AD21\_LIBS\GOST_Lib\GOST_DbLib.xlsx
+LibraryDatabasePath=GOST_DbLib.xlsx
 DatabasePathRelative=1
 TopPanelCollapsed=0
-LibrarySearchPath=
+LibrarySearchPath=SCH;PCB
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
@@ -26,9 +26,6 @@ TableName=Resistors_SMD$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=87|Libriary Ref0=80|Footprint Ref0=92|Footprint Ref 20=101|Footprint Ref 30=101|Footprint Ref 40=101|Footprint Ref 50=101|Footprint Ref 60=101|Footprint Ref 70=101|Library Path0=85|Footprint Path0=98
 [FieldMap1]
 Options=FieldName=Resistors_SMD$.Part Number|TableNameOnly=Resistors_SMD$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
