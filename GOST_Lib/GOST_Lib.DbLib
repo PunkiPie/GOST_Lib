@@ -44,9 +44,6 @@ TableName=Resistors_SMD$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=87|Footprint Ref0=92|Footprint Ref 20=101|Footprint Ref 30=101|Footprint Ref 40=101|Footprint Ref 50=101|Footprint Ref 60=101|Footprint Ref 70=101|Library Path0=90|Footprint Path0=98|Library Ref0=77
 [Table5]
 SchemaName=
 TableName=Tantalum_Capacitors_SMD$
