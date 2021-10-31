@@ -19,7 +19,7 @@ LibrarySearchPath=SCH;PCB
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=Capacitors_SMD$
+LastFocusedTable=Resistors_SMD$
 [Table1]
 SchemaName=
 TableName=Capacitors_SMD$
@@ -46,7 +46,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=87|Footprint Ref0=92|Footprint Ref 20=101|Footprint Ref 30=101|Footprint Ref 40=101|Footprint Ref 50=101|Footprint Ref 60=101|Footprint Ref 70=101|Library Path0=90|Footprint Path0=98|Library Ref0=77
+BrowserOrder_Visible=Part Number0=87|Footprint Ref0=92|Footprint Ref 20=101|Footprint Ref 30=101|Footprint Ref 40=101|Footprint Ref 50=101|Footprint Ref 60=101|Footprint Ref 70=101|Library Path0=90|Footprint Path0=98|Library Ref0=77|=Value0=60|Value0=52
 [Table5]
 SchemaName=
 TableName=Tantalum_Capacitors_SMD$
