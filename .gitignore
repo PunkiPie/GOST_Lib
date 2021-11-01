@@ -1,3 +1,5 @@
-.Zip
+
 *.Zip
 *.SchDocPreview
+*.SchDotPreview
+*.DwsDotPreview
