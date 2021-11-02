@@ -24,7 +24,6 @@ ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=1
-AutoCrossReferences=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
@@ -193,212 +192,229 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OBMMVYNI
 
+[Document10]
+DocumentPath=SCH\Connectors.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PXDCTLRJ
+
 [Parameter1]
-Name=п_Утв_Р
+Name=Вид_документа
 Value=
 
 [Parameter2]
-Name=п_Утв
-Value=
-
-[Parameter3]
-Name=п_Т_Контр
-Value=
-
-[Parameter4]
-Name=п_Разраб_Р
-Value=
-
-[Parameter5]
-Name=п_Разраб
-Value=
-
-[Parameter6]
-Name=п_Пров_Р
-Value=
-
-[Parameter7]
-Name=п_Пров
-Value=
-
-[Parameter8]
-Name=п_Н_контр_Р
-Value=
-
-[Parameter9]
-Name=п_Н_контр
-Value=
-
-[Parameter10]
-Name=п_Доп_графа_Р
-Value=
-
-[Parameter11]
-Name=п_Доп_графа
-Value=
-
-[Parameter12]
-Name=Характер_работы
-Value=
-
-[Parameter13]
-Name=Формат_PCB
-Value=
-
-[Parameter14]
-Name=Указания_изменение_СП
-Value=
-
-[Parameter15]
-Name=Указания_изменение_ПЭ3
-Value=
-
-[Parameter16]
-Name=Указания_изменение_ВП
-Value=
-
-[Parameter17]
-Name=Указания_изменение
-Value=
-
-[Parameter18]
-Name=Раздел_SCH
-Value=
-
-[Parameter19]
-Name=Раздел_PCB
-Value=
-
-[Parameter20]
-Name=Раздел
-Value=
-
-[Parameter21]
-Name=Проект
-Value=
-
-[Parameter22]
-Name=Порядковый_номер_изменения_СП
-Value=
-
-[Parameter23]
-Name=Порядковый_номер_изменения_ПЭ3
-Value=
-
-[Parameter24]
-Name=Порядковый_номер_изменения_ВП
-Value=
-
-[Parameter25]
-Name=Порядковый_номер_изменения
-Value=
-
-[Parameter26]
-Name=ПервПримен
-Value=
-
-[Parameter27]
-Name=Перв.Примен.
-Value=
-
-[Parameter28]
-Name=Обозначение_Код
-Value=
-
-[Parameter29]
-Name=Обозначение_PCB
-Value=
-
-[Parameter30]
-Name=Обозначение
-Value=
-
-[Parameter31]
-Name=Номер_документа_изменение_СП
-Value=
-
-[Parameter32]
-Name=Номер_документа_изменение_ПЭ3
-Value=
-
-[Parameter33]
-Name=Номер_документа_изменение_ВП
-Value=
-
-[Parameter34]
-Name=Номер_документа_изменение
-Value=
-
-[Parameter35]
-Name=Наименование_PCB
-Value=
-
-[Parameter36]
-Name=Наименование3
-Value=
-
-[Parameter37]
-Name=Наименование2
-Value=
-
-[Parameter38]
-Name=Наименование1
-Value=
-
-[Parameter39]
-Name=Наименование
-Value=
-
-[Parameter40]
-Name=Литера3
-Value=
-
-[Parameter41]
-Name=Литера2
-Value=
-
-[Parameter42]
-Name=Литера
-Value=
-
-[Parameter43]
-Name=Код_документа_SCH
-Value=
-
-[Parameter44]
-Name=Код_документа_PCB
-Value=
-
-[Parameter45]
-Name=Код_документа
-Value=
-
-[Parameter46]
-Name=Дата_изменения_СП
-Value=
-
-[Parameter47]
-Name=Дата_изменения_ПЭ3
-Value=
-
-[Parameter48]
-Name=Дата_изменения_ВП
-Value=
-
-[Parameter49]
-Name=Дата_изменения
-Value=
-
-[Parameter50]
-Name=Вид_документа_SCH
-Value=
-
-[Parameter51]
 Name=Вид_документа_PCB
 Value=
 
+[Parameter3]
+Name=Вид_документа_SCH
+Value=
+
+[Parameter4]
+Name=Дата_изменения
+Value=
+
+[Parameter5]
+Name=Дата_изменения_ВП
+Value=
+
+[Parameter6]
+Name=Дата_изменения_ПЭ3
+Value=
+
+[Parameter7]
+Name=Дата_изменения_СП
+Value=
+
+[Parameter8]
+Name=Код_документа
+Value=
+
+[Parameter9]
+Name=Код_документа_PCB
+Value=
+
+[Parameter10]
+Name=Код_документа_SCH
+Value=
+
+[Parameter11]
+Name=Литера
+Value=
+
+[Parameter12]
+Name=Литера2
+Value=
+
+[Parameter13]
+Name=Литера3
+Value=
+
+[Parameter14]
+Name=Наименование
+Value=
+
+[Parameter15]
+Name=Наименование1
+Value=
+
+[Parameter16]
+Name=Наименование2
+Value=
+
+[Parameter17]
+Name=Наименование3
+Value=
+
+[Parameter18]
+Name=Наименование_PCB
+Value=
+
+[Parameter19]
+Name=Номер_документа_изменение
+Value=
+
+[Parameter20]
+Name=Номер_документа_изменение_ВП
+Value=
+
+[Parameter21]
+Name=Номер_документа_изменение_ПЭ3
+Value=
+
+[Parameter22]
+Name=Номер_документа_изменение_СП
+Value=
+
+[Parameter23]
+Name=Обозначение
+Value=
+
+[Parameter24]
+Name=Обозначение_PCB
+Value=
+
+[Parameter25]
+Name=Обозначение_Код
+Value=
+
+[Parameter26]
+Name=Перв.Примен.
+Value=
+
+[Parameter27]
+Name=ПервПримен
+Value=
+
+[Parameter28]
+Name=Порядковый_номер_изменения
+Value=
+
+[Parameter29]
+Name=Порядковый_номер_изменения_ВП
+Value=
+
+[Parameter30]
+Name=Порядковый_номер_изменения_ПЭ3
+Value=
+
+[Parameter31]
+Name=Порядковый_номер_изменения_СП
+Value=
+
+[Parameter32]
+Name=Проект
+Value=
+
+[Parameter33]
+Name=Раздел
+Value=
+
+[Parameter34]
+Name=Раздел_PCB
+Value=
+
+[Parameter35]
+Name=Раздел_SCH
+Value=
+
+[Parameter36]
+Name=Указания_изменение
+Value=
+
+[Parameter37]
+Name=Указания_изменение_ВП
+Value=
+
+[Parameter38]
+Name=Указания_изменение_ПЭ3
+Value=
+
+[Parameter39]
+Name=Указания_изменение_СП
+Value=
+
+[Parameter40]
+Name=Формат_PCB
+Value=
+
+[Parameter41]
+Name=Характер_работы
+Value=
+
+[Parameter42]
+Name=п_Доп_графа
+Value=
+
+[Parameter43]
+Name=п_Доп_графа_Р
+Value=
+
+[Parameter44]
+Name=п_Н_контр
+Value=
+
+[Parameter45]
+Name=п_Н_контр_Р
+Value=
+
+[Parameter46]
+Name=п_Пров
+Value=
+
+[Parameter47]
+Name=п_Пров_Р
+Value=
+
+[Parameter48]
+Name=п_Разраб
+Value=
+
+[Parameter49]
+Name=п_Разраб_Р
+Value=
+
+[Parameter50]
+Name=п_Т_Контр
+Value=
+
+[Parameter51]
+Name=п_Утв
+Value=
+
 [Parameter52]
-Name=Вид_документа
+Name=п_Утв_Р
 Value=
 
 [Configuration1]
@@ -414,7 +430,7 @@ ConfigurationType=Source
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=HP_R1_A4_B
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -501,57 +517,37 @@ OutputName17=SciCards Netlist
 OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
-OutputType18=SIMetrixNetlist
-OutputName18=SIMetrix
+OutputType18=TangoNetlist
+OutputName18=Tango Netlist
 OutputDocumentPath18=
 OutputVariantName18=
 OutputDefault18=0
-OutputType19=SIMPLISNetlist
-OutputName19=SIMPLIS
+OutputType19=TelesisNetlist
+OutputName19=Telesis Netlist
 OutputDocumentPath19=
 OutputVariantName19=
 OutputDefault19=0
-OutputType20=TangoNetlist
-OutputName20=Tango Netlist
+OutputType20=WireListNetlist
+OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=TelesisNetlist
-OutputName21=Telesis Netlist
+OutputType21=XSpiceNetlist
+OutputName21=Mixed Sim Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
-OutputType22=WireListNetlist
-OutputName22=WireList Netlist
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=XSpiceNetlist
-OutputName23=Mixed Sim Netlist
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=HP_R1_A4_B
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -630,7 +626,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=HP_R1_A4_B
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -652,7 +648,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=HP_R1_A4_B
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -724,7 +720,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=HP_R1_A4_B
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -744,53 +740,41 @@ Configuration1_Name5=SortOrder
 Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
 Configuration1_Name6=VisibleOrder
 Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
-OutputType2=BOM_ReportCompare
-OutputName2=BOM Compare
+OutputType2=ComponentCrossReference
+OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType3=ComponentCrossReference
-OutputName3=Component Cross Reference Report
+OutputType3=GOSTBOM
+OutputName3=GOST BOM
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-OutputType4=Export Comments
-OutputName4=Export Comments
+OutputType4=ReportHierarchy
+OutputName4=Report Project Hierarchy
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType5=GOSTBOM
-OutputName5=GOST BOM
+OutputType5=Script
+OutputName5=Script Output
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-OutputType6=ReportHierarchy
-OutputName6=Report Project Hierarchy
+OutputType6=SimpleBOM
+OutputName6=Simple BOM
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=Script
-OutputName7=Script Output
+OutputType7=SinglePinNetReporter
+OutputName7=Report Single Pin Nets
 OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
-OutputType8=SimpleBOM
-OutputName8=Simple BOM
-OutputDocumentPath8=
-OutputVariantName8=[No Variations]
-OutputDefault8=0
-OutputType9=SinglePinNetReporter
-OutputName9=Report Single Pin Nets
-OutputDocumentPath9=
-OutputVariantName9=[No Variations]
-OutputDefault9=0
 
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=HP_R1_A4_B
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -898,7 +882,7 @@ PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=HP_R1_A4_B
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -942,7 +926,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=HP_R1_A4_B
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1003,7 +987,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=HP_R1_A4_B
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1214,8 +1198,8 @@ Type8=1
 Type9=1
 Type10=1
 Type11=2
-Type12=2
-Type13=2
+Type12=0
+Type13=0
 Type14=1
 Type15=1
 Type16=1
