@@ -75,7 +75,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document3]
-DocumentPath=PCB\RES_SMD.PcbLib
+DocumentPath=PCB\RES SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -109,7 +109,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TSENRNEO
 
 [Document5]
-DocumentPath=PCB\CAP_SMD.PcbLib
+DocumentPath=PCB\CAP SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -126,7 +126,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MKJCADWV
 
 [Document6]
-DocumentPath=PCB\CAP_SMD_TANTALUM.PcbLib
+DocumentPath=PCB\CAP SMD TANTALUM.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -160,7 +160,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KZALBKZJ
 
 [Document8]
-DocumentPath=PCB\IND_SMD.PcbLib
+DocumentPath=PCB\IND SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -260,6 +260,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UREPTDCX
+
+[Document14]
+DocumentPath=SCH\Transistors.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AKNXCFCC
+
+[Document15]
+DocumentPath=PCB\TO Package.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MPPWBNNV
 
 [Parameter1]
 Name=Вид_документа
