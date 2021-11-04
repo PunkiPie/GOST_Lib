@@ -84,6 +84,6 @@
     4.1. 0603 <br />
   5. Транзисторы:  
     5.1. MOSFET N-Channel  
-	5.2. MOSFET P-Channel
-	5.3. BJT-NPN
+	5.2. MOSFET P-Channel  
+	5.3. BJT-NPN  
 	5.4. BJT-PNP
