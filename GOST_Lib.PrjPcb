@@ -414,6 +414,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DXVZIVII
 
+[Document23]
+DocumentPath=PCB\SOD Package.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SFXJQYWN
+
 [Parameter1]
 Name=Вид_документа
 Value=

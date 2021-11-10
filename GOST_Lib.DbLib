@@ -19,7 +19,7 @@ LibrarySearchPath=SCH;PCB
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=Diodes$
+LastFocusedTable=Coaxile Connectors$
 [Table1]
 SchemaName=
 TableName=Coaxile Connectors$
@@ -32,18 +32,12 @@ TableName=DIP Switches$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=98|Value0=98|Library Ref0=77|Footprint Ref0=112|Library Path0=89|Footprint Path0=98
 [Table3]
 SchemaName=
 TableName=Diodes$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=87|Value0=52|Library Ref0=77|Footprint Ref0=92|Footprint Ref 20=101|Footprint Ref 30=101|Footprint Ref 40=101|Footprint Ref 50=101|Footprint Ref 60=101|Library Path0=83|Footprint Path0=98|D-S Voltage0=84|Drain Current0=93|D-S On-Resistance0=118|Total Power Dissipation0=145|Gate Threshold Voltage0=145|Manufacturer0=93
 [Table4]
 SchemaName=
 TableName=PBD Connectors$
