@@ -5,7 +5,7 @@ ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\Projects\Altiu
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,7 +19,7 @@ LibrarySearchPath=SCH;PCB
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=Coaxile Connectors$
+LastFocusedTable=DIP Switches$
 [Table1]
 SchemaName=
 TableName=Coaxile Connectors$
@@ -32,6 +32,9 @@ TableName=DIP Switches$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=98|Library Ref0=99|Footprint Ref0=112|Library Path0=89|Footprint Path0=98|Value0=98
 [Table3]
 SchemaName=
 TableName=Diodes$
