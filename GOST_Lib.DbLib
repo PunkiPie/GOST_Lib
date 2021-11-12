@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\Projects\Altium\AD21\_LIBS\GOST_Lib\GOST_DbLib.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Projects\Altium Projects\_LIBS\GOST_Lib\GOST_DbLib.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -19,28 +19,31 @@ LibrarySearchPath=SCH;PCB
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=DIP Switches$
+LastFocusedTable=SMD Tantalum Capacitors$
 [Table1]
 SchemaName=
 TableName=Coaxile Connectors$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Library Ref0=77|Footprint Ref0=92|Footprint Ref 20=101|Footprint Ref 30=101|Footprint Ref 40=101|Footprint Ref 50=101|Footprint Ref 60=101|Library Path0=103|Footprint Path0=98
 [Table2]
 SchemaName=
 TableName=DIP Switches$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=98|Library Ref0=99|Footprint Ref0=112|Library Path0=89|Footprint Path0=98|Value0=98
 [Table3]
 SchemaName=
 TableName=Diodes$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Library Ref0=77|Footprint Ref0=92|Footprint Ref 20=101|Footprint Ref 30=101|Footprint Ref 40=101|Footprint Ref 50=101|Footprint Ref 60=101|Library Path0=83|Footprint Path0=112|Value0=52|D-S Voltage0=84|Drain Current0=93|D-S On-Resistance0=118|Total Power Dissipation0=145|Gate Threshold Voltage0=145|Manufacturer0=93
 [Table4]
 SchemaName=
 TableName=PBD Connectors$
@@ -113,12 +116,18 @@ TableName=SMD Resistors$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Library Ref0=77|Footprint Ref0=92|Footprint Ref 20=101|Footprint Ref 30=101|Footprint Ref 40=101|Footprint Ref 50=101|Footprint Ref 60=101|Footprint Ref 70=101|Library Path0=90|Footprint Path0=98|Resistance0=77
 [Table16]
 SchemaName=
 TableName=SMD Tantalum Capacitors$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=108|Library Ref0=107|Footprint Ref0=101|Footprint Ref 20=101|Footprint Ref 30=101|Footprint Ref 40=102|Footprint Ref 50=101|Footprint Ref 60=101|Library Path0=98|Footprint Path0=151|Capacitance0=85
 [Table17]
 SchemaName=
 TableName=Transistors$
