@@ -86,9 +86,6 @@ TableName=Potentiometers$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=87|Library Ref0=81|Footprint Ref0=92|Library Path0=90|Footprint Path0=98|Comment0=86|Resistance0=77|Voltage0=63
 [Table12]
 SchemaName=
 TableName=RLB Inductors$
@@ -101,9 +98,6 @@ TableName=Relays$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=98|Library Ref0=99|Footprint Ref0=112|Library Path0=89|Footprint Path0=98|Comment0=98
 [Table14]
 SchemaName=
 TableName=SMD Capacitors$
