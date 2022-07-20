@@ -146,6 +146,9 @@ TableName=Switches$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=119|Library Ref0=119|Footprint Ref0=92|Library Path0=89|Footprint Path0=110|Commet0=119
 [Table22]
 SchemaName=
 TableName=Table Connectors$
